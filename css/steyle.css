@@ -1,0 +1,267 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+}
+.header{
+    background: #89898b;
+    height: 620px;
+}
+.nav_text{
+    display: flex;
+    justify-content: center;
+    padding-top: 32px;
+    color: #fff;
+}
+.img{
+    display: flex;
+    justify-content: center;
+   
+}
+.nav_title{
+    display: flex;
+    justify-content: center;
+    font-size: 32px;
+    color: #ffe600;
+    padding-top: 32px;
+}
+.nav_card{
+    padding-top: 100px;
+}
+.nav_link{
+    padding: 15px 25px 15px;
+    background: #ffe600;
+    color: #fff;
+    margin-top: 80px;
+    background: transparent;
+    border: 1px solid #ffe600;
+    display: flex;
+    justify-content: center;
+}
+.log{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+.card{
+    width: 200px;
+    padding-left: 660px;
+}
+.main_img{
+    padding-top: 25px;
+}
+
+.main_link{
+    display: flex;
+    padding-left:  450px;
+    align-items: center;
+    
+    
+}
+.main_list{
+    padding-left: 30px;
+    color: #89898b;
+}
+.main_list:hover{
+    color: #000;
+    border: 1px solid #ffe600;
+    background: transparent;
+    padding: 5px 5px 5px;
+    font-size: 16px;
+}
+.main_title{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    font-size: 24px;
+    color: #333333;
+}
+.main_text{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    color: #ffe600;
+    font-size: 16px;
+}
+.main_img{
+    display: flex;
+}
+.navi01{
+    color: #ffe600;
+}
+.navi{
+    display: flex;
+}
+.main_tetle{
+    font-size: 16px;
+    padding-left: 15px;
+    color: #333333;
+}
+
+
+.navi{
+    display: flex;
+    align-items: center;
+}
+
+.main_tex{
+    color: #89898b;
+    padding-top: 25px;
+    width: 250px;
+   padding-left: 30px;
+}
+.navi_row{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 150px;
+}
+.info{
+    margin-top: 150px;
+    background: #ffe600;
+    height: 350px;
+}
+.info_title{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    padding-top: 10px;
+    color: #333333;
+}
+.info-text{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 14px;
+    color: #fff;
+}
+.info_blog{
+    padding-top: 100px;
+}
+.portfolio_title{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    font-size: 20px;
+    color: #333333;
+}
+.potrfolio_text{
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    font-size: 15px;
+    color: #ffe600;
+}
+.potrfolio_row{
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.portfolio-card{
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+.potrfolio_tex{
+    display: flex;
+    justify-content: center;
+    color: #ffe600;
+    padding-top: 15px;
+}
+.logotip{
+    background: #424245;
+    height: 320px;
+    margin-top: 80px;
+}
+.logotip_title{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+    padding-top: 70px;
+}
+.logotip_text{
+    display: flex;
+    justify-content: center;
+    color: #ffe600;
+    font-size: 14px;
+    padding-top: 15px;
+}
+.logotip_row{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.registir_title{
+    display: flex;
+    justify-content: center;
+    color: #333333;
+    font-size: 20px;
+}
+.registir_text{
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    color: #ffe600;
+    padding-top: 25px;
+}
+.fegistir_blog{
+    padding-top: 80px;
+}
+input {
+    height: 40px;
+    margin-bottom: 15px;
+    width: 550px;
+    background: #ffe600;
+}
+.label_card1{
+    display: flex;
+}
+
+.label_blog{
+    padding-top: 150px;
+}
+.input2{
+    width: 1140px;
+}
+.input3{
+    width: 1140px;
+    height: 100px;
+}
+.label_link{
+    padding: 15px 35px 15px;
+    background: #1bc9cf;
+    color: #ffe600;
+    margin-top: 5px;
+    background: #000;
+    display: flex;
+    justify-content: center;
+}
+.input1{
+    padding-left: 25px;
+   width: 550px;
+}
+.footer{
+    background: #000;
+    height: 120px;
+    margin-top: 35px;
+}
+
+.footer_row{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 45px;
+
+}
+.footer_card{
+    width: 50px;
+    
+}
